@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Pocophone F1",
+    "codename": "beryllium",
+    "pictures": "image/beryllium_lineage.png"
+  },
+  {
+    "name": "Dummyphone C3",
+    "codename": "dummy",
+    "pictures": "image/dummy_swift.png"
+  },
+  {
+    "name": "Pocophone F1",
+    "codename": "lava",
+    "pictures": "image/lava_mi.png"
+  }
+]
