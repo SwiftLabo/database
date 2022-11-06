@@ -6,5 +6,6 @@
     "filename": "",
     "builddate": "",
     "android": "13",
-    "download": "default"
+    "download": "default",
+    "isAvailable": "false"
 }

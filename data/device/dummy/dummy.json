@@ -6,5 +6,6 @@
     "filename": "SwiftAOSP_v3.1-Coffee-beryllium-211022-OFFICIAL.zip",
     "builddate": "21-10-22",
     "android": "13",
-    "download": "default"
+    "download": "default",
+    "isAvailable": "false"
 }

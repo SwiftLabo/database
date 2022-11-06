@@ -1,10 +1,11 @@
 {
-    "name": "Pocophone F1",
-    "codename": "beryllium",
-    "maintainer": "Ibratabian17",
-    "pictures": "image/beryllium_lineage.png",
-    "filename": "",
-    "builddate": "",
-    "android": "13",
-    "download": "default"
+    "Name": "Pocophone F1",
+    "Codename": "beryllium",
+    "Maintainer": "Ibratabian17/BakaHokage",
+    "Pictures": "image/beryllium_lineage.png",
+    "Filename": "",
+    "BuildDate": "",
+    "Android": "13",
+    "Download": "default",
+    "isAvailable": "false"
 }
